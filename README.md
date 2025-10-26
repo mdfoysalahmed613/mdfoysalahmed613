@@ -4,15 +4,13 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/mdfoysalahmed613" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://your-portfolio-website.com" target="_blank">
+    <a href="https://foysal.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
+  <a href="https://linkedin.com/in/foysal-ahmed-b86699259" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
 </p>
 
 ---
@@ -22,9 +20,7 @@
 This is the set of technologies I am most proficient with and use regularly.
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,nodejs,express,mongodb,mysql,postgres,supabase,ubuntu,linux" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,nodejs,express,mongodb,mysql,postgres,supabase,ubuntu,linux" />
 </p>
 
 ---
