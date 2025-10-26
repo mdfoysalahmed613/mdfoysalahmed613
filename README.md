@@ -1,5 +1,51 @@
-## Hi there 👋
-
 <div align="center">
-  <img height="200" src="https://ik.imagekit.io/fosal613/blog-images/Md%20Foysal%20Ahmed.png"  />
+  <h1 style="font-size: 2.5rem; font-weight: bold;">Foysal Ahmed</h1>
+  <p>Full Stack Developer specializing in Next.js, TypeScript, and modern web technologies.</p>
 </div>
+
+<p align="center">
+  <a href="https://github.com/mdfoysalahmed613" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://your-portfolio-website.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+---
+
+## 🛠️ My Tech Stack
+
+This is the set of technologies I am most proficient with and use regularly.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,nodejs,mongodb,express,js,mongoose,git" />
+  </a>
+</p>
+
+---
+
+## ⚙️ Tools & Technologies I Use
+
+Here are some other tools and technologies I have experience with.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,reactquery,clerk,figma,framermotion" />
+  </a>
+</p>
+*Note: `Shadcn UI`, `React Hook Form`, and `TipTap` are excellent libraries I use, but they don't have official icons in this set.*
+
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdfoysalahmed613&show_icons=true&theme=transparent&hide_border=true&title_color=209cee&icon_color=209cee&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdfoysalahmed613&layout=compact&theme=transparent&hide_border=true&title_color=209cee&text_color=c9d1d9" alt="Top Languages" />
+</p>
