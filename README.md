@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-size: 2.5rem; font-weight: bold;">Foysal Ahmed</h1>
+  <h1 style="font-size: 2.5rem; font-weight: bold;">Md Foysal Ahmed</h1>
   <p>Full Stack Developer specializing in Next.js, TypeScript, and modern web technologies.</p>
 </div>
 
@@ -23,29 +23,12 @@ This is the set of technologies I am most proficient with and use regularly.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,nodejs,mongodb,express,js,mongoose,git" />
+    <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,nodejs,express,mongodb,mysql,postgres,supabase,ubuntu,linux" />
   </a>
 </p>
 
 ---
 
-## ⚙️ Tools & Technologies I Use
-
-Here are some other tools and technologies I have experience with.
-
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,reactquery,clerk,figma,framermotion" />
-  </a>
-</p>
-*Note: `Shadcn UI`, `React Hook Form`, and `TipTap` are excellent libraries I use, but they don't have official icons in this set.*
-
-
----
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdfoysalahmed613&show_icons=true&theme=transparent&hide_border=true&title_color=209cee&icon_color=209cee&text_color=c9d1d9" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdfoysalahmed613&layout=compact&theme=transparent&hide_border=true&title_color=209cee&text_color=c9d1d9" alt="Top Languages" />
 </p>
