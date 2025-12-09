@@ -13,7 +13,6 @@
 
 </p>
 
----
 
 ## 🛠️ My Tech Stack
 
@@ -23,7 +22,6 @@ This is the set of technologies I am most proficient with and use regularly.
   <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,nodejs,express,mongodb,mysql,postgres,supabase,ubuntu,linux" />
 </p>
 
----
 ## 👨🏼‍💻 I'm a Full Stack Developer
 
 <img src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/refs/heads/master/thoughtworks-gif_dribbble.gif" width="260px" align="right"/>
