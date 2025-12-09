@@ -24,7 +24,18 @@ This is the set of technologies I am most proficient with and use regularly.
 </p>
 
 ---
+## 👨🏼‍💻 I'm a Full Stack Developer
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdfoysalahmed613&layout=compact&theme=transparent&hide_border=true&title_color=209cee&text_color=c9d1d9" alt="Top Languages" />
-</p>
+<img src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/refs/heads/master/thoughtworks-gif_dribbble.gif" width="260px" align="right"/>
+
+🔹 Building performant, responsive UIs with **Modern React**  
+🔹 Exploring **advanced state management** solutions  
+🔹 Implementing **accessibility** best practices  
+🔹 Optimizing **web performance** metrics  
+🔹 Mastering **TypeScript** for scalable frontend architecture  
+🔹 Developing **full-stack capabilities** with Next.js API routes  
+🔹 Contributing to **open-source** frontend projects
+
+</div>
+
+<div style="background-color: #000000; padding: 20px; border-radius: 5px;">
