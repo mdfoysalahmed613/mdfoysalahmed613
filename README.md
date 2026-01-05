@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="font-size: 2.5rem; font-weight: bold;">Md Foysal Ahmed</h1>
-  <p>Full Stack Developer specializing in Next.js, TypeScript, and modern web technologies.</p>
+  <p>Full Stack Developer specializing in Next.js, PostggreSQL, and modern web technologies.</p>
 </div>
 
 <p align="center">
@@ -19,7 +19,7 @@
 This is the set of technologies I am most proficient with and use regularly.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,nodejs,express,mongodb,mysql,postgres,supabase,ubuntu,linux" />
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,nestjs,postgres,supabase,ubuntu,docker" />
 </p>
 
 ## 👨🏼‍💻 I'm a Full Stack Developer
