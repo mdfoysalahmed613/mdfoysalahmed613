@@ -19,7 +19,7 @@
 This is the set of technologies I am most proficient with and use regularly.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,nestjs,postgres,supabase,ubuntu,docker" />
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,nestjs,postgres,supabase,docker" />
 </p>
 
 ## 👨🏼‍💻 I'm a Full Stack Developer
