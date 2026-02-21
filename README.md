@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="font-size: 2.5rem; font-weight: bold;">Md Foysal Ahmed</h1>
-  <p>Full Stack Developer specializing in Next.js, PostggreSQL, and modern web technologies.</p>
+  <p>Full-stack developer focused on creating fast, scalable web apps. Passionate about clean code and innovative solutions.</p>
 </div>
 
 <p align="center">
