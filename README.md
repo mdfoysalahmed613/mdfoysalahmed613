@@ -35,4 +35,4 @@ This is the set of technologies I am most proficient with and use regularly.
 ✔ 🔭 &nbsp; I’m currently learning DSA, Kubernetes, and Clean Architecture <br/>
 ✔ 💬 Ask me about JavaScript, TypeScript, Node JS, React JS, Express JS, Next JS, Nest JS, System Design <br>
 ✔ 📫 &nbsp; How to reach me, you can email me at [Gmail](mdfoysalahmed613@gmail.com)<br>
-✔ 📫 &nbsp; Feel free to connect me on [LinkedIn]((https://www.linkedin.com/in/mdfoysalahmed613/)) <br>
+✔ 📫 &nbsp; Feel free to connect me on [LinkedIn](https://www.linkedin.com/in/mdfoysalahmed613) <br>
