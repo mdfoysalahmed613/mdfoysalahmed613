@@ -14,7 +14,7 @@
 </p>
 
 
-## 🛠️ My Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> My Tech Stack</b>
 
 This is the set of technologies I am most proficient with and use regularly.
 
@@ -22,18 +22,17 @@ This is the set of technologies I am most proficient with and use regularly.
   <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,nestjs,postgres,supabase,docker" />
 </p>
 
-## 👨🏼‍💻 I'm a Full Stack Developer
+
+<div style="background-color: #000000; padding: 20px; border-radius: 5px;">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <b>About Me...</b>
+
 
 <img src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/refs/heads/master/thoughtworks-gif_dribbble.gif" width="260px" align="right"/>
 
-🔹 Building performant, responsive UIs with **Modern React**  
-🔹 Exploring **advanced state management** solutions  
-🔹 Implementing **accessibility** best practices  
-🔹 Optimizing **web performance** metrics  
-🔹 Mastering **TypeScript** for scalable frontend architecture  
-🔹 Developing **full-stack capabilities** with Next.js API routes  
-🔹 Contributing to **open-source** frontend projects
 
-</div>
 
-<div style="background-color: #000000; padding: 20px; border-radius: 5px;">
+✔ 🔭 &nbsp; I’m currently learning DSA, Kubernetes, and Clean Architecture <br/>
+✔ 💬 Ask me about JavaScript, TypeScript, Node JS, React JS, Express JS, Next JS, Nest JS, System Design <br>
+✔ 📫 &nbsp; How to reach me, you can email me at [Gmail](mdfoysalahmed613@gmail.com)<br>
+✔ 📫 &nbsp; Feel free to connect me on [LinkedIn]((https://www.linkedin.com/in/mdfoysalahmed613/)) <br>
